@@ -84,3 +84,7 @@ resume-jd-matcher/
 - Allow comparing multiple versions of a resume against one job description, to see which version scores the best
 - Put the app online (deploy it) using Streamlit Community Cloud, so anyone can use it from a link without installing anything
 
+## Author
+**Jenihelan M**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jenihelan-m/)
+
