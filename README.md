@@ -1,4 +1,9 @@
 # 📄 Resume vs Job Description Matcher
+## Screenshots
+![Demo](screenshots/Demo.png)
+![Result1](screenshots/Result1.png)
+![Result2](screenshots/Result2.png)
+![Result3](screenshots/Result3.png)
 
 A Streamlit web app that compares a resume against a job description, generates a match score, and highlights which skills are present or missing — helping job seekers tailor their resumes more effectively.
 
